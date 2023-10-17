@@ -1,4 +1,4 @@
-# Graven-Sources
+# Graven-Assets
 
 This repository contains the assets for some of Graven's videos:
 [Graven's YouTube channel](https://www.youtube.com/@Gravenilvectuto/featured)
