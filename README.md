@@ -11,3 +11,7 @@ This repository contains the assets for some of Graven's videos:
 | CREER UN JEU PYGAME - PYTHON | [https://www.youtube.com/playlist?list=PLMS9Cy4Enq5KsM7GJ4LHnlBQKTQBV8kaR](https://www.youtube.com/playlist?list=PLMS9Cy4Enq5KsM7GJ4LHnlBQKTQBV8kaR) | [PygameAssets](./PygameAssets/) |
 | Comment créer un JEU en Python ? (2 vidéos) | [https://www.youtube.com/watch?v=ooITOxbYVTo](https://www.youtube.com/watch?v=ooITOxbYVTo) / [https://youtu.be/clcmhmpyYSc?si=-amZGUNORnxhe_ny](https://youtu.be/clcmhmpyYSc?si=-amZGUNORnxhe_ny) | [Pygamon](./Pygamon/) |
 | HTML CSS - Créer un site de réservation de vol | [https://www.youtube.com/watch?v=HLMrQw-AXXY](https://www.youtube.com/watch?v=HLMrQw-AXXY) | [GravenAir](./GravenAir/) |
+
+
+If you need another asset, feel free to ask me.
+You can open an issue or a pull request.
