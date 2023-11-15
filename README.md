@@ -15,3 +15,5 @@ This repository contains the assets for some of Graven's videos:
 
 If you need another asset, feel free to ask me.
 You can open an issue or a pull request.
+
+![Discord Banner](https://discordapp.com/api/guilds/763846236766732368/widget.png?style=banner2)
