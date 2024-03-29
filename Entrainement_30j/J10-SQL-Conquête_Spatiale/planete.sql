@@ -1,0 +1,17 @@
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS "planete" (
+	"id"	INTEGER PRIMARY KEY AUTOINCREMENT,
+	"nom"	TEXT,
+	"temperature"	INTEGER,
+	"distancesol"	INTEGER,
+	"diametre"	INTEGER
+);
+INSERT INTO "planete" VALUES (1,'Mercure',427,58,4878);
+INSERT INTO "planete" VALUES (2,'Vénus',465,108,12100);
+INSERT INTO "planete" VALUES (3,'Terre',50,150,12742);
+INSERT INTO "planete" VALUES (4,'Mars',0,228,6792);
+INSERT INTO "planete" VALUES (5,'Jupiter',-110,778,142800);
+INSERT INTO "planete" VALUES (6,'Saturne',190,1428,120000);
+INSERT INTO "planete" VALUES (7,'Uranus',-224,2872,50800);
+INSERT INTO "planete" VALUES (8,'Neptune',-218,4498,49500);
+COMMIT;
